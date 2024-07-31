@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime
 from docxtpl import DocxTemplate
 
-doc = DocxTemplate('/Users/juanpablomoya/Desktop/proyecto/conf_fact.docx')
+doc = DocxTemplate('conf_fact.docx')
 
 nombre = 'Juan Pablo Moya'
 correo = 'jpmoya@tsgroup.cl'
