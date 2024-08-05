@@ -11,3 +11,7 @@ Características clave:
 * Personalización avanzada: Permite la inclusión de variables dinámicas en el cuerpo del correo, creando mensajes altamente personalizados para cada destinatario.
 
 Este proyecto no solo demuestra habilidades técnicas en Python y manejo de datos, sino también un entendimiento profundo de las necesidades de comunicación empresarial y la capacidad de crear soluciones que aumentan significativamente la productividad y eficiencia operativa.
+
+
+
+### ES IMPORTANTE RECALCAR QUE ESTE SOLO ES UN MODELO DE MUESTRA, YA QUE EL ORIGINAL OBTIENE DATOS REALES, MASIVOS Y PRIVADOS DE LA EMPRESA DONDE TRABAJÉ.
