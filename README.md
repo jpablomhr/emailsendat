@@ -14,4 +14,4 @@ Este proyecto no solo demuestra habilidades técnicas en Python y manejo de dato
 
 
 
-### ES IMPORTANTE RECALCAR QUE ESTE SOLO ES UN MODELO DE MUESTRA, YA QUE EL ORIGINAL OBTIENE DATOS REALES, MASIVOS Y PRIVADOS DE LA EMPRESA DONDE TRABAJÉ.
+### Cabe destacar que este es un modelo representativo. La versión original utiliza datos reales, voluminosos y confidenciales provenientes de la empresa donde presté mis servicios profesionales.
